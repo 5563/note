@@ -161,3 +161,9 @@ console.log(mergeSort([5,1,89,66,7]))
 
 ### watch和computed区别
 
+
+
+### call 和apply的区别
+
+
+
